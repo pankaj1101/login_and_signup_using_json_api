@@ -20,10 +20,10 @@ Credits: This project uses the power of Flutter, GetX, and MVC architecture to c
 
 Disclaimer: This project is for educational and demonstrative purposes only.
 
+| ![Screenshot_1704612060](IMAGE_URL_1) | ![Screenshot_1704612057](IMAGE_URL_2) |
+|---------------------------------------|---------------------------------------|
+| Description for Image 1                | Description for Image 2                |
 
-
-![Screenshot_1704612060](https://github.com/pankaj1101/login_and_signup_using_json_api/assets/116742441/e268d9f7-a639-483f-a9ce-ebc65d4fcfa3)
-![Screenshot_1704612057](https://github.com/pankaj1101/login_and_signup_using_json_api/assets/116742441/fa4b32f0-99e8-4121-9828-411a50e3550e)
 
 
 
